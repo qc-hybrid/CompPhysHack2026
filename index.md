@@ -28,5 +28,9 @@ To be announced.
 # Support
 * [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)<br><img src="./QCHybrid-logo-RGB02.png" alt="JSPS QC Hybrid" style="height: 80px;"/>
 
+# Organizers
+* Shuhei Ohno
+* Takahiro Misawa
+
 # Contact
 **

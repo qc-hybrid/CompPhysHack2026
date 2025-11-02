@@ -33,4 +33,3 @@ To be announced.
 * Takahiro Misawa
 
 # Contact
-**

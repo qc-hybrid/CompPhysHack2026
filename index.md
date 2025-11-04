@@ -4,18 +4,34 @@ description: Computational Physics Hackathon in Naha, Okinawa 2026
 ---
 
 # About
+AI tools are rapidly gaining traction across the software development and data science communities, while adoption in computational physics is still emerging. This hackathon provides practical, hands-on training to **integrate the AI tools into simulation, data analysis, and writing workflows for dramatic productivity gains**.
+
+This three-day event brings together students and researchers to collaborate on computational physics problems. It is an ideal entry point for students and postdocs already engaged in research, and a re-skilling opportunity for senior researchers. Participants are expected to have prior experience in coding and numerical simulations.
 
 # Dates 
 March 6 - 8, 2026
 
 # Program
-|               | Fri, 6th | Sat, 7th | Sun, 8th |
-| :------------ | :------ | :------ | :------ |
-| 09:00 - 10:30 | Introduction | Team Work II | Team Work VII |
-| 10:30 - 12:00 | Lecture I | Team Work III | Team Work VIII |
-| 13:30 - 15:00 | Lecture II | Team Work IV | Team Results Presentation |
-| 15:00 - 16:30 | Preparation for Team Work | Team Work V |  |
-| 16:30 - 18:00 | Team Work I | Team Work VI |  |
+
+| Time | Fri, 6th | Sat, 7th | Sun, 8th |
+| :--- | :------ | :------ | :------ |
+| 09:00 - 10:30 | Introduction              | Team Work II           | Team Work VII        |
+| 10:30 - 12:00 | Lecture I                 | Team Work III          | Team Work VIII       |
+| 13:30 - 15:00 | Lecture II                | Team Work IV           | Team Results Presentation |
+| 15:00 - 16:30 | Preparation for Team Work | Team Work V            | Follow-up Meeting I  |
+| 16:30 - 18:00 | Team Work I               | Team Work VI           | Follow-up Meeting II |
+
+*Attendees in the follow-up meetings are optional.*
+
+# Topics for team work
+
+We are now accepting topics for team work. Please contact us at [compphyhack2026@googlegroups.com](mailto:compphyhack2026@googlegroups.com) if you have any ideas.
+
+The following are some examples of topics for team work:
+
+- Parallel classical Monte Carlo simulations of spin models
+- Finite-temperature quantum Monte Carlo simulations of spin models
+- ...
 
 # Venue
 Room 204 in the same building as the technical college at ([Google Map](https://maps.app.goo.gl/TkXkrvhXdeTjNbwF7), GPS: 26.205776110763367, 127.68035664117075)
@@ -40,6 +56,9 @@ To be announced.
 
 # Organizers
 * [Shuhei Ohno](https://github.com/ohno)
-* Takahiro Misawa
+* [Takahiro Misawa](https://github.com/tmisawa)
+* [Hiroshi Shinaoka](https://github.com/shinaoka)
 
 # Contact
+
+[compphyhack2026@googlegroups.com](mailto:compphyhack2026@googlegroups.com)

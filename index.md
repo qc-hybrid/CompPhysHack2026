@@ -4,11 +4,13 @@ description: Computational Physics Hackathon in Naha, Okinawa 2026
 ---
 
 # About
-AI tools are rapidly gaining traction across the software development and data science communities, while adoption in computational physics is still emerging. This hackathon provides practical, hands-on training to **integrate the AI tools into simulation, data analysis, and writing workflows for dramatic productivity gains**.
+AI tools in software development and data science have already led to dramatic productivity gains.
+However, adoption in computational physics is still in its early stages.
 
-This three-day event brings together students and researchers to collaborate on computational physics problems. It is an ideal entry point for
-- *students and postdocs already engaged in research*, and 
-- *a re-skilling opportunity for senior researchers*. 
+This hackathon offers practical, hands-on training on **integrating AI tools into the workflow of computational physics, e.g., coding and data analysis**.
+It is an ideal entry point for:
+- students and postdocs already engaged in research, and 
+- a re-skilling opportunity for senior researchers.
 
 Participants are expected to have prior experience in coding and numerical simulations.
 

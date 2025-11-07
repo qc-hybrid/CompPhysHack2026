@@ -34,7 +34,7 @@ March 6 - 8, 2026
 
 # Topics for team work
 
-We are now accepting topics for team work. Please contact us at [compphyhack2026@googlegroups.com](mailto:compphyhack2026@googlegroups.com) if you have any ideas.
+We are now accepting topics for team work. Please contact us at [compphyshack2026@googlegroups.com](mailto:compphyshack2026@googlegroups.com) if you have any ideas.
 
 The following are some examples of topics for team work:
 

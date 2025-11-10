@@ -55,7 +55,10 @@ Please note that participants are responsible for their own hotel accommodations
 Free
 
 # Registration
-To be announced.
+Will be open soon.
+
+# VISA Information
+[Application form](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=aa8jBSUEjUqYJ-5yksXYIY2eEnV0hb9AhGLzK-_lOQtUQkRZM0tPUldOUVBSOE5IN1BEOUVYR1JHTC4u)
 
 # Lecturers
 * [Satoshi Terasaki (AtelierArith)](https://terasakisatoshi.github.io)

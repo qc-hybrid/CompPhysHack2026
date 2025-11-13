@@ -34,13 +34,9 @@ March 6 - 8, 2026
 
 # Topics for team work
 
-We are now accepting topics for team work. Please contact us at [compphyshack2026@googlegroups.com](mailto:compphyshack2026@googlegroups.com) if you have any ideas.
-
-The following are some examples of topics for team work:
-
-- Parallel classical Monte Carlo simulations of spin models
-- Finite-temperature quantum Monte Carlo simulations of spin models
-- ...
+We are now accepting topics for team work.
+Please use [the thread on GitHub](https://github.com/qc-hybrid/CompPhysHack2026/issues/3)
+or propose in the registration form if you have any ideas.
 
 # Venue
 Room 204 in the same building as the technical college at ([Google Map](https://maps.app.goo.gl/TkXkrvhXdeTjNbwF7), GPS: 26.205776110763367, 127.68035664117075)
@@ -55,7 +51,10 @@ Please note that participants are responsible for their own hotel accommodations
 Free
 
 # Registration
-Will be open soon.
+
+**Important**: Please make sure that we have access to AI tools such as VS code Copilot, Cursor, Claude Code, Codex, etc. We recommend to use Cursor Pro if you are not already using them. We will extensively use Git and GitHub for collaboration.
+
+The registration form will be open soon.
 
 # VISA Information
 [Application form](https://forms.office.com/r/rRDfCcq9P8)

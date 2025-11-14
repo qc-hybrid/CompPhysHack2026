@@ -56,7 +56,7 @@ Free
 
 [Registration form](https://forms.gle/HxDuXjmVZK3z3a8j9)
 
-Deadline: Saturday, February 28, 2026
+The deadline for registration is January 31, 2026.
 
 We may close the registration if the number of participants exceeds the capacity (approximately 40).
 

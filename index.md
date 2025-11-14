@@ -56,6 +56,8 @@ Free
 
 The registration form will be open soon.
 
+We may close the registration if the number of participants exceeds the capacity (approximately 40).
+
 # VISA Information
 [Application form](https://forms.office.com/r/rRDfCcq9P8)
 

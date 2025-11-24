@@ -20,7 +20,7 @@ Participants are expected to have prior experience in coding and numerical simul
 # Dates 
 March 6 - 8, 2026
 
-A related workshop will be held on March 2 - 5 (just before the hackathon) in Naha, Okinawa. See [here](https://qc-hybrid.github.io/CompQMB2026/) for more details.
+A related workshop will be held in Naha, Okinawa from March 2 - 5, just before the hackathon. See [here](https://qc-hybrid.github.io/CompQMB2026/) for more details. In addition, a [school on computational physics](https://compphysschool.github.io/2026/) (in Japanese) will be held from March 9 - 13.
 
 # Program
 

@@ -62,6 +62,8 @@ The deadline for registration is January 31, 2026.
 
 We may close the registration if the number of participants exceeds the capacity (approximately 40).
 
+For students and researchers with limited budgets, a small number of travel supports may be available. If you wish to be considered, please indicate this in the remarks section of the registration form.
+
 # VISA Information
 [Application form](https://forms.office.com/r/rRDfCcq9P8)
 

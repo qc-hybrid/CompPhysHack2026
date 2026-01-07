@@ -18,13 +18,13 @@
 
 ## Saturday, March 7
 
-- 09:00 - 09:30: Introduction within each team (+setting up environment)
-- 09:30 - 10:30: Team Work
+- 09:00 - 09:30: Short talk on vibe coding experience (Jin-Guo Liu, Hong Kong University of Science and Technology (GuangZhou))
+- 09:30 - 09:45: Self-introduction within each team (+setting up environment)
+- 09:45 - 10:30: Team Work
 - 10:30 - 10:45: break
 - 10:45 - 12:00: Team Work
 - 12:00 - 13:30: Lunch
-- 13:30 - 14:00: Short talk on vibe coding experience (Jin-Guo Liu, Hong Kong University of Science and Technology (GuangZhou))
-- 14:00 - 16:00: Team Work
+- 13:30 - 16:00: Team Work
 - 16:00 - 16:15: break
 - 16:15 - 17:45: Team Work
 - 17:45 - 18:00: Wrap-up / Discussion

@@ -1,5 +1,7 @@
 # Program
 
+** Attendees on the first day are optional. If you are not able to attend the first day, please read the lecture materials, which will be available before the event, and set up your environment before the second day. **
+
 ## Friday, March 6
 
 - 09:00 - 09:30: Registration
@@ -16,7 +18,8 @@
 
 ## Saturday, March 7
 
-- 09:00 - 10:30: Team Work
+- 09:00 - 09:30: Introduction within each team (+setting up environment)
+- 09:30 - 10:30: Team Work
 - 10:30 - 10:45: break
 - 10:45 - 12:00: Team Work
 - 12:00 - 13:30: Lunch

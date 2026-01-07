@@ -1,6 +1,6 @@
 # Program
 
-** Attendees on the first day are optional. If you are not able to attend the first day, please read the lecture materials, which will be available before the event, and set up your environment before the second day. **
+**Attendees on the first day are optional. If you are not able to attend the first day, please read the lecture materials, which will be available before the event, and set up your environment before the second day.**
 
 ## Friday, March 6
 

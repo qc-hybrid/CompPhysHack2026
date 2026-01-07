@@ -18,7 +18,7 @@
 
 ## Saturday, March 7
 
-- 09:00 - 09:30: Short talk on vibe coding experience (Jin-Guo Liu, Hong Kong University of Science and Technology (GuangZhou))
+- 09:00 - 09:30: Live Demo of Vibe Coding (Jin-Guo Liu, Hong Kong University of Science and Technology (GuangZhou))
 - 09:30 - 09:45: Self-introduction within each team (+setting up environment)
 - 09:45 - 10:30: Team Work
 - 10:30 - 10:45: break

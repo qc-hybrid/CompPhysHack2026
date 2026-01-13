@@ -1,7 +1,6 @@
 ---
 title: Program
 description: CompPhysHack 2026 schedule
-permalink: /program/
 ---
 
 # Program

@@ -24,7 +24,7 @@ A related workshop will be held in Naha, Okinawa from March 2 - 5, just before t
 
 # Program
 
-See the detailed schedule at [Program](/program/).
+See the detailed schedule at [Program](/program.html).
 
 # Topics for team work
 

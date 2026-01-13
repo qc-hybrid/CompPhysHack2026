@@ -1,3 +1,9 @@
+---
+title: Program
+description: CompPhysHack 2026 schedule
+permalink: /program/
+---
+
 # Program
 
 **Attendees on the first day are optional. If you are not able to attend the first day, please read the lecture materials, which will be available before the event, and set up your environment before the second day.**

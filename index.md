@@ -24,15 +24,7 @@ A related workshop will be held in Naha, Okinawa from March 2 - 5, just before t
 
 # Program
 
-| Time | Fri, 6th | Sat, 7th | Sun, 8th |
-| :--- | :------ | :------ | :------ |
-| 09:00 - 10:30 | Introduction              | Team Work II           | Team Work VII        |
-| 10:30 - 12:00 | Lecture I                 | Team Work III          | Team Work VIII       |
-| 13:30 - 15:00 | Lecture II                | Team Work IV           | Team Results Presentation |
-| 15:00 - 16:30 | Preparation for Team Work | Team Work V            | Follow-up Meeting I  |
-| 16:30 - 18:00 | Team Work I               | Team Work VI           | Follow-up Meeting II |
-
-*Attendees in the follow-up meetings are optional.*
+See the detailed schedule at [Program](/program/).
 
 # Topics for team work
 

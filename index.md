@@ -3,7 +3,7 @@ title:  CompPhysHack 2026
 description: Computational Physics Hackathon in Naha, Okinawa 2026
 ---
 
-![CompPhysHack 2026]({{ site.baseurl }}/image.png)
+<a href="{{ site.baseurl }}/image.png" target="_blank"><img src="{{ site.baseurl }}/image-thumb.jpg" alt="CompPhysHack 2026" style="max-width: 100%; height: auto; cursor: pointer;" /></a>
 
 # About
 AI tools in software development and data science have already led to dramatic productivity gains.

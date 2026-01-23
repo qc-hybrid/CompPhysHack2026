@@ -68,8 +68,8 @@ For students and researchers with limited budgets, a small number of travel supp
 * [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)<br><img src="./QCHybrid-logo-RGB02.png" alt="JSPS QC Hybrid" style="height: 80px;"/>
 
 # Organizers
+* [Takahiro Misawa](https://github.com/tmisawa) (Chair)
 * [Shuhei Ohno](https://github.com/ohno)
-* [Takahiro Misawa](https://github.com/tmisawa)
 * [Hiroshi Shinaoka](https://github.com/shinaoka)
 
 # Contact

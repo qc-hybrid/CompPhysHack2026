@@ -70,6 +70,7 @@ For students and researchers with limited budgets, a small number of travel supp
 # Organizers
 * [Takahiro Misawa](https://github.com/tmisawa) (Chair)
 * [Shuhei Ohno](https://github.com/ohno)
+* [Tsuyoshi Okubo](https://github.com/TsuyoshiOkubo)
 * [Hiroshi Shinaoka](https://github.com/shinaoka)
 
 # Contact

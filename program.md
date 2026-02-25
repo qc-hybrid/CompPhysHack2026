@@ -3,14 +3,14 @@ title: Program
 description: CompPhysHack 2026 schedule
 ---
 
-**Attendees on the first day are optional. If you are not able to attend the first day, please read the lecture materials, which will be available before the event, and set up your environment before the second day.**
+**Attendees on the first day are optional. If you are not able to attend the first day, please read the [handouts](https://atelierarith.github.io/CompPhysHack2026HandsOn/), which will be available before the event, and [set up your environment](https://atelierarith.github.io/CompPhysHack2026HandsOn/handouts/preparation/preparation.html) before the second day.**
 
 ## Friday, March 6
 
 - 09:00 - 09:30: Registration
 - 09:30 - 10:00: Short talk on vibe coding experience (Hiroshi Shinaoka, Saitama University)
 - 10:00 - 10:15: break
-- 10:15 - 11:45: Lecture (Satoshi Terasaki, AtelierArith)
+- 10:15 - 11:45: [Lecture (Satoshi Terasaki, AtelierArith)](https://atelierarith.github.io/CompPhysHack2026HandsOn/)
 - 11:45 - 13:30: Lunch
 - 13:30 - 14:00: Vibe Coding Exercise (+setting up environment)
 - 14:00 - 14:15: break

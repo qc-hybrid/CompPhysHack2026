@@ -43,6 +43,8 @@ Room 204 in the same building as the technical college at ([Google Map](https://
 
 The venue is located in Naha, Okinawa, Japan, which is accessible from the airport by public transportation.
 
+See [Venue Access]({{ site.baseurl }}/venue.html) for detailed directions and entrance instructions.
+
 # Accommodations
 
 Please note that participants are responsible for their own hotel accommodations. 

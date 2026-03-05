@@ -28,6 +28,10 @@ A related workshop will be held in Naha, Okinawa from March 2 - 5, just before t
 
 See the detailed schedule at [Program]({{ site.baseurl }}/program.html).
 
+# Communication Tool
+
+We will use **Matrix** as our common communication tool. See [Matrix Setup Instructions]({{ site.baseurl }}/matrix-setup.html) for details.
+
 # Topics for team work
 
 We are now accepting topics for team work.

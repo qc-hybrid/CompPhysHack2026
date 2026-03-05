@@ -17,7 +17,7 @@ description: CompPhysHack 2026 schedule
 - 14:15 - 15:45: Vibe Coding Exercise (+setting up environment)
 - 15:45 - 16:00: break
 - 16:00 - 17:30: Vibe Coding Exercise (+setting up environment)
-- 17:30 - 18:00: Wrap-up / Discussion
+- 17:30 - 18:00: Wrap-up / Discussion (with short talk by Lei Wang, IOP, CAS, Beijing)
 
 ## Saturday, March 7
 

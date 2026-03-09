@@ -5,6 +5,16 @@ description: Computational Physics Hackathon in Naha, Okinawa 2026
 
 <a href="{{ site.baseurl }}/image.png" target="_blank"><img src="{{ site.baseurl }}/image-thumb.jpg" alt="CompPhysHack 2026" style="max-width: 100%; height: auto; cursor: pointer;" /></a>
 
+<div id="materials" style="border: 3px solid #2563eb; background: #eff6ff; padding: 1rem 1.25rem; border-radius: 14px; margin: 1rem 0 1.25rem 0; box-shadow: 0 8px 24px rgba(0,0,0,0.08);">
+  <h2 style="margin: 0 0 0.5rem 0; font-size: 1.6rem; line-height: 1.2;">Presentation &amp; Lecture Materials</h2>
+  <p style="margin: 0 0 0.75rem 0;">Quick links to slides/materials used in the event:</p>
+  <ul style="margin: 0; padding-left: 1.25rem;">
+    <li><a href="{{ site.baseurl }}/slides/shinaoka.pdf" target="_blank" rel="noopener">Talk by Hiroshi Shinaoka (PDF)</a> — short talk on vibe coding experience</li>
+    <li><a href="https://atelierarith.github.io/CompPhysHack2026HandsOn/" target="_blank" rel="noopener">Lecture materials by Satoshi Terasaki (AtelierArith hands-on)</a></li>
+    <li><a href="{{ site.baseurl }}/slides/vibecoding-JinGuoLiu.pdf" target="_blank" rel="noopener">Talk materials by Jin-Guo Liu (PDF)</a> — live demo of vibe coding</li>
+  </ul>
+</div>
+
 # About
 AI tools in software development and data science have already led to dramatic productivity gains.
 However, adoption in computational physics is still in its early stages.
